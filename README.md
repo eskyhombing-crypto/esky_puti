@@ -1,2 +1,2 @@
-# esky_puti
+# esky_putri
 Tugas Kuliah Pemograman
